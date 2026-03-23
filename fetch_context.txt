@@ -1,0 +1,1 @@
+Either pass `fetch` to the client, `new GeminiNextGenAPIClient({ fetch })` or polyfill the global, `globalThis.fetch = fetch`")}function l1(...n){const o=globalThis.ReadableStream;if(typeof o>"u")throw new Error("`ReadableSt

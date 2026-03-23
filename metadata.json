@@ -1,0 +1,5 @@
+{
+  "name": "Shwe Learning LMS",
+  "description": "A specialized LMS for teachers and displaced students in Myanmar, featuring offline student passports, AI-driven curriculum adjustments, and localized educational content.",
+  "requestFramePermissions": ["camera"]
+}

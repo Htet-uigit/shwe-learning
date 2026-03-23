@@ -1,0 +1,2 @@
+yfill the global, `globalThis.fetch = fetch`")}function l1(...n){con
+)!==null&&h!==void 0?h:2,this.fetch=(y=b.fetch)!==null&&y!==void 0?
