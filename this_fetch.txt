@@ -1,9 +1,0 @@
-g.");a.mimeType=h;const y={file:a},g=this.getFileName(o),v=_e("upload/v1beta/files",y._url),E=await this.fetchUploadUrl(v,a.sizeBytes,a.mimeType,g,y,i==null?void 0:i.httpOptions);return u.upload(o,E,this)}async
-load/v1beta/${o}:uploadToFileSearchStore`,v=this.getFileName(i),E={};l!=null&&$R(l,E);const S=await this.fetchUploadUrl(g,h,y,v,E,l==null?void 0:l.httpOptions);return u.uploadToFileSearchStore(i,S,this)}async d
-const a=i.name.split("/operations/")[0];let u;l&&"httpOptions"in l&&(u=l.httpOptions);const d=await this.fetchPredictVideosOperationInternal({operationName:i.name,resourceName:a,config:{httpOptions:u}});return 
-const a=i.name.split("/operations/")[0];let u;l&&"httpOptions"in l&&(u=l.httpOptions);const d=await this.fetchPredictVideosOperationInternal({operationName:i.name,resourceName:a,config:{httpOptions:u}});return 
-y("GEMINI_NEXT_GEN_API_LOG"),"process.env['GEMINI_NEXT_GEN_API_LOG']",this))!==null&&d!==void 0?d:R,this.fetchOptions=b.fetchOptions,this.maxRetries=(h=b.maxRetries)!==null&&h!==void 0?h:2,this.fetch=(y=b.fetch
-URL,maxRetries:this.maxRetries,timeout:this.timeout,logger:this.logger,logLevel:this.logLevel,fetch:this.fetch,fetchOptions:this.fetchOptions,apiKey:this.apiKey,apiVersion:this.apiVersion}),o))}baseURLOverridde
-s})),!((u=h.signal)===null||u===void 0)&&u.aborted)throw new ky;const D=new AbortController,M=await this.fetchWithTimeout(v,g,E,D).catch(Iy),k=Date.now();if(M instanceof globalThis.Error){const q=`retrying, ${i
-l:a.signal},E?{duplex:"half"}:{}),{method:"GET"}),y);h&&(S.method=h.toUpperCase());try{return await this.fetch.call(void 0,o,S)}finally{clearTimeout(v)}}async shouldRetry(o){const i=o.headers.get("x-should-retr
-globalThis.ReadableStream&&b instanceof globalThis.ReadableStream&&{duplex:"half"}),b&&{body:b}),(a=this.fetchOptions)!==null&&a!==void 0?a:{}),(u=d.fetchOptions)!==null&&u!==void 0?u:{}),url:E,timeout:d.timeou
